@@ -1,0 +1,8 @@
+'''
+numpy
+pandas
+matplotlib
+ultralytics
+cv2
+cvzone
+'''

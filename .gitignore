@@ -1,0 +1,13 @@
+dataset/
+
+runs/
+*.pt
+*.onnx
+
+*.pyc
+.env
+.venv
+venv/
+
+.DS_Store
+Thumbs.db
