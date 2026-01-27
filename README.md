@@ -38,10 +38,8 @@ datasets/widerface/
 └── test/
 
 
-You can download WiderFace from:
+You can download WiderFace from below and use "Separate_TrainTest_Dataset" to structure that data into above YOLO requested format:
 https://shuoyang1213.me/WIDERFACE/
-
-Then convert it to YOLO format.
 
 ---
 
