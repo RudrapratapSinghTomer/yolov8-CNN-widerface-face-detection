@@ -18,6 +18,7 @@ This project trains a YOLOv8n model on the WiderFace dataset for face detection.
 Dataset is not included due to size.
 
 Expected structure:
+
 datasets/widerface/
 ├── images/
 │ ├── train/
