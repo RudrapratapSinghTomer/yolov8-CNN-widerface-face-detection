@@ -1,16 +1,19 @@
 # Face Detection using YOLOv8 (WiderFace)
 
-This project trains a YOLOv8n model on the WiderFace dataset for face detection.
+This project implements a face detection system using **YOLOv8n** trained on the **WiderFace dataset**.
 
-⚠️ Status: Work in Progress (WIP)
+🚧 **Status: Work in Progress**
+
+The current pipeline focuses on training and evaluating a YOLOv8-based face detector.  
+In future updates, a **CNN-based face refinement / classification module** will be added to further improve detection accuracy and robustness.
 
 ---
 
 ## 📌 Features
 - YOLOv8n model (Ultralytics)
-- Custom training on WiderFace dataset
-- YOLO-format annotations
-- Evaluation pipeline (in progress)
+- Training on WiderFace dataset (YOLO format)
+- Modular training and evaluation scripts
+- Designed for future CNN integration
 
 ---
 
