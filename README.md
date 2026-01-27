@@ -20,13 +20,21 @@ Dataset is not included due to size.
 Expected structure:
 
 datasets/widerface/
+
 ├── images/
+
 │ ├── train/
+
 │ ├── val/
+
 │ └── test/
+
 └── labels/
+
 ├── train/
+
 ├── val/
+
 └── test/
 
 
