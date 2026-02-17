@@ -1,11 +1,11 @@
 from ultralytics import YOLO
 import cv2
 import cvzone
-import funcations_
+# import funcations_
 
 # Load YOLOv8 face model PROPERLY
-facemodel = YOLO(r"C:\Users\hp\Desktop\VS Code Projects\VS_AllCodes\Scratch - ANN\yolov8n-face-lindevs.onnx")
-
+model__ = YOLO(r'C:\Users\hp\Desktop\VS Code Projects\VS_AllCodes\Scratch, YOLO - Face Detection\Scratch\yolov8n-face-lindevs.onnx')
+facemodel = YOLO(model=model__)
 #this is for web_cam video (line 9)
 cap = cv2.VideoCapture(0)
 #we can do "cap = cv2.VideoCapture("rtsp://...")" for RTSP stream (line 9)
